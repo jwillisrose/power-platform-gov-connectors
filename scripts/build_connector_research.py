@@ -61,6 +61,11 @@ PRODUCT_ICON_PATHS = {
 }
 
 
+def repo_path(path):
+    path = Path(path)
+    return str(path if path.is_absolute() else REPO_ROOT / path)
+
+
 def normalize_href(href):
     href = href.split("?", 1)[0].split("#", 1)[0]
     if href.startswith("/"):
@@ -212,7 +217,7 @@ def download_logos(records):
         digest = hashlib.sha1(record["learn_url"].encode("utf-8")).hexdigest()[:14]
         logo_path = LOGO_DIR / f"{digest}.png"
         if logo_path.exists():
-            record["logo_path"] = str(logo_path)
+            record["logo_path"] = logo_path.relative_to(REPO_ROOT).as_posix()
             continue
         try:
             response = session.get(record["icon_url"], timeout=45)
@@ -237,7 +242,7 @@ def download_logos(records):
                 y = (128 - image.height) // 2
                 canvas.alpha_composite(image, (x, y))
                 canvas.save(logo_path)
-            record["logo_path"] = str(logo_path)
+            record["logo_path"] = logo_path.relative_to(REPO_ROOT).as_posix()
         except Exception as exc:
             failures.append((record["name"], record["icon_url"], str(exc)))
     if failures:
@@ -302,7 +307,10 @@ def visually_identical_logo(path_a, path_b):
 def unique_visual_records(records):
     unique = []
     for record in records:
-        if not any(visually_identical_logo(record["logo_path"], existing["logo_path"]) for existing in unique):
+        if not any(
+            visually_identical_logo(repo_path(record["logo_path"]), repo_path(existing["logo_path"]))
+            for existing in unique
+        ):
             unique.append(record)
     return unique
 
@@ -369,7 +377,13 @@ def add_section(slide, title, records, x, y, w, h, accent):
         row_start_x = grid_x + max(0, (grid_w - row_used_w) / 2)
         icon_x = row_start_x + col * (icon_size + gap)
         icon_y = grid_y + row * (icon_size + gap)
-        slide.shapes.add_picture(record["logo_path"], PptxInches(icon_x), PptxInches(icon_y), PptxInches(icon_size), PptxInches(icon_size))
+        slide.shapes.add_picture(
+            repo_path(record["logo_path"]),
+            PptxInches(icon_x),
+            PptxInches(icon_y),
+            PptxInches(icon_size),
+            PptxInches(icon_size),
+        )
 
 
 def create_pptx(records, source_dates):
@@ -808,7 +822,7 @@ def create_docx(records, source_dates, latest_change_note):
         logo_cell.text = ""
         logo_paragraph = logo_cell.paragraphs[0]
         logo_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        add_picture_run(logo_paragraph, record["logo_path"], Inches(0.17), record["name"])
+        add_picture_run(logo_paragraph, repo_path(record["logo_path"]), Inches(0.17), record["name"])
         set_cell_borders(logo_cell, right={"val": "nil"})
 
         connector_cell = row.cells[1]

@@ -29,7 +29,7 @@
       "publisher_raw": "ADOBE INC",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b21f0c4bc20769.png"
+      "logo_path": "assets/logos/b21f0c4bc20769.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/adobepdftools/",
@@ -55,7 +55,7 @@
       "publisher_raw": "Adobe Acrobat Services",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b1d28f0a899570.png"
+      "logo_path": "assets/logos/b1d28f0a899570.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/amazonredshift/",
@@ -81,7 +81,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2efebd0f46cef6.png"
+      "logo_path": "assets/logos/2efebd0f46cef6.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/amazons3/",
@@ -107,7 +107,7 @@
       "publisher_raw": "",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\febc7f2a3c20e2.png"
+      "logo_path": "assets/logos/febc7f2a3c20e2.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/impala/",
@@ -133,7 +133,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ed23802871b91.png"
+      "logo_path": "assets/logos/9ed23802871b91.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgis/",
@@ -159,7 +159,7 @@
       "publisher_raw": "Esri, Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2e3ebbc1f5b066.png"
+      "logo_path": "assets/logos/2e3ebbc1f5b066.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgisenterprise/",
@@ -185,7 +185,7 @@
       "publisher_raw": "Esri, Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\46b359d3e4df71.png"
+      "logo_path": "assets/logos/46b359d3e4df71.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgispaas/",
@@ -211,7 +211,7 @@
       "publisher_raw": "Esri, Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f0c7a9bf0250a7.png"
+      "logo_path": "assets/logos/f0c7a9bf0250a7.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/asiteusgov/",
@@ -237,7 +237,7 @@
       "publisher_raw": "Asite Solutions Limited",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bec64d31584c47.png"
+      "logo_path": "assets/logos/bec64d31584c47.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/bizzy/",
@@ -263,7 +263,7 @@
       "publisher_raw": "H3 Solutions Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\941f2046183b3a.png"
+      "logo_path": "assets/logos/941f2046183b3a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/avepointcloudgovernance/",
@@ -289,7 +289,7 @@
       "publisher_raw": "AvePoint, inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ec149c15925c01.png"
+      "logo_path": "assets/logos/ec149c15925c01.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaisearchfoundryiq/",
@@ -315,7 +315,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\717c9a2bda7f0b.png"
+      "logo_path": "assets/logos/717c9a2bda7f0b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/formrecognizer/",
@@ -339,7 +339,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\996ca90749d504.png"
+      "logo_path": "assets/logos/996ca90749d504.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaifoundryinference/",
@@ -365,7 +365,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\898223ce937184.png"
+      "logo_path": "assets/logos/898223ce937184.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaisearch/",
@@ -391,7 +391,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\fcaba8070794fb.png"
+      "logo_path": "assets/logos/fcaba8070794fb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureappservice/",
@@ -417,7 +417,7 @@
       "publisher_raw": "",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\aace4a7e674127.png"
+      "logo_path": "assets/logos/aace4a7e674127.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/applicationinsights/",
@@ -443,7 +443,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a065d5d133aeff.png"
+      "logo_path": "assets/logos/a065d5d133aeff.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureautomation/",
@@ -469,7 +469,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f47a06a8a39fd4.png"
+      "logo_path": "assets/logos/f47a06a8a39fd4.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicesspe/",
@@ -495,7 +495,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b18a5337e3d7b3.png"
+      "logo_path": "assets/logos/b18a5337e3d7b3.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureblob/",
@@ -521,7 +521,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4a1951e865a268.png"
+      "logo_path": "assets/logos/4a1951e865a268.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicestextanalytics/",
@@ -547,7 +547,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ce74f540d7aec.png"
+      "logo_path": "assets/logos/9ce74f540d7aec.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/aci/",
@@ -573,7 +573,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c9d00a50a0af81.png"
+      "logo_path": "assets/logos/c9d00a50a0af81.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/documentdb/",
@@ -597,7 +597,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0f227b8364eb72.png"
+      "logo_path": "assets/logos/0f227b8364eb72.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/kusto/",
@@ -623,7 +623,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\75cb3a99e44a7a.png"
+      "logo_path": "assets/logos/75cb3a99e44a7a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuredatafactory/",
@@ -649,7 +649,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9dbcae45e653e0.png"
+      "logo_path": "assets/logos/9dbcae45e653e0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremysql/",
@@ -675,7 +675,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3b06f6bafc9b56.png"
+      "logo_path": "assets/logos/3b06f6bafc9b56.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/visualstudioteamservices/",
@@ -701,7 +701,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4648e02b99e07b.png"
+      "logo_path": "assets/logos/4648e02b99e07b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureeventgrid/",
@@ -725,7 +725,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a9c6a17d22ef43.png"
+      "logo_path": "assets/logos/a9c6a17d22ef43.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureeventgridpublish/",
@@ -749,7 +749,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\87eab4ecf4dcfe.png"
+      "logo_path": "assets/logos/87eab4ecf4dcfe.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azurefile/",
@@ -775,7 +775,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1159dd10768d24.png"
+      "logo_path": "assets/logos/1159dd10768d24.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/keyvault/",
@@ -801,7 +801,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dc2c4f7bb77678.png"
+      "logo_path": "assets/logos/dc2c4f7bb77678.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azureloganalyticsdatacollector/",
@@ -827,7 +827,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\10b66ac3ba207e.png"
+      "logo_path": "assets/logos/10b66ac3ba207e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremaps/",
@@ -853,7 +853,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\747b6b5058c03e.png"
+      "logo_path": "assets/logos/747b6b5058c03e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremonitorlogs/",
@@ -879,7 +879,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8665334102e0d7.png"
+      "logo_path": "assets/logos/8665334102e0d7.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremonitorlogsingestion/",
@@ -905,7 +905,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ea8427724a337.png"
+      "logo_path": "assets/logos/6ea8427724a337.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azurequeues/",
@@ -931,7 +931,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e0a50b41a2ae99.png"
+      "logo_path": "assets/logos/e0a50b41a2ae99.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/arm/",
@@ -957,7 +957,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f342d053b1cb0.png"
+      "logo_path": "assets/logos/9f342d053b1cb0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azurespeechpronuncia/",
@@ -983,7 +983,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bc43ef3944c0c9.png"
+      "logo_path": "assets/logos/bc43ef3944c0c9.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sqldw/",
@@ -1007,7 +1007,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1b4a9d78eb2468.png"
+      "logo_path": "assets/logos/1b4a9d78eb2468.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuretables/",
@@ -1031,7 +1031,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\49a17dbc9c4834.png"
+      "logo_path": "assets/logos/49a17dbc9c4834.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuretexttospeech/",
@@ -1057,7 +1057,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\27dfc79f2b4f9f.png"
+      "logo_path": "assets/logos/27dfc79f2b4f9f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azurevm/",
@@ -1083,7 +1083,7 @@
       "publisher_raw": "",
       "available_in": "GCC, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7cacbd3a7114d1.png"
+      "logo_path": "assets/logos/7cacbd3a7114d1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/bingmaps/",
@@ -1109,7 +1109,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f1906ca5da4c54.png"
+      "logo_path": "assets/logos/f1906ca5da4c54.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/bingsearch/",
@@ -1135,7 +1135,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bcb54d18915e7f.png"
+      "logo_path": "assets/logos/bcb54d18915e7f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/bitly/",
@@ -1161,7 +1161,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1b199929a53228.png"
+      "logo_path": "assets/logos/1b199929a53228.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/boomappconnect/",
@@ -1187,7 +1187,7 @@
       "publisher_raw": "Boomerang I-Comms Ltd",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\42785a6849d3d1.png"
+      "logo_path": "assets/logos/42785a6849d3d1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/box/",
@@ -1213,7 +1213,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\aa92cb5915fa92.png"
+      "logo_path": "assets/logos/aa92cb5915fa92.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/calendarpro/",
@@ -1239,7 +1239,7 @@
       "publisher_raw": "Witivio",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\48237cf429b70e.png"
+      "logo_path": "assets/logos/48237cf429b70e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/civicplustransform/",
@@ -1265,7 +1265,7 @@
       "publisher_raw": "OneBlink",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8a1e30a92146b0.png"
+      "logo_path": "assets/logos/8a1e30a92146b0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cloudmersive/",
@@ -1291,7 +1291,7 @@
       "publisher_raw": "Cloudmersive, LLC",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8328ba551287eb.png"
+      "logo_path": "assets/logos/8328ba551287eb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescomputervision/",
@@ -1317,7 +1317,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\84a9c43f470313.png"
+      "logo_path": "assets/logos/84a9c43f470313.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/confluence/",
@@ -1343,7 +1343,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\09d8098a5627bb.png"
+      "logo_path": "assets/logos/09d8098a5627bb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/conversionservice/",
@@ -1369,7 +1369,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0500dfae49523f.png"
+      "logo_path": "assets/logos/0500dfae49523f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescontentmoderator/",
@@ -1395,7 +1395,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5832d2a314c030.png"
+      "logo_path": "assets/logos/5832d2a314c030.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/blockchaincorda/",
@@ -1421,7 +1421,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d3df19260cd00a.png"
+      "logo_path": "assets/logos/d3df19260cd00a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cpscrecallsretrievalip/",
@@ -1447,7 +1447,7 @@
       "publisher_raw": "Troy Taylor",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2af782c34a890c.png"
+      "logo_path": "assets/logos/2af782c34a890c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/craftmypdfip/",
@@ -1473,7 +1473,7 @@
       "publisher_raw": "Troy Taylor",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c82580f39a0614.png"
+      "logo_path": "assets/logos/c82580f39a0614.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescustomvision/",
@@ -1499,7 +1499,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9bc8f43d654c33.png"
+      "logo_path": "assets/logos/9bc8f43d654c33.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dataactivator/",
@@ -1524,7 +1524,7 @@
       "publisher_raw": "Microsoft, Data Activator",
       "available_in": "GCC High",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0a77b2cdf53e3b.png"
+      "logo_path": "assets/logos/0a77b2cdf53e3b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/datascopeforms/",
@@ -1550,7 +1550,7 @@
       "publisher_raw": "DataScope",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5cac535b4316bc.png"
+      "logo_path": "assets/logos/5cac535b4316bc.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/db2/",
@@ -1576,7 +1576,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ee35ff40664aa.png"
+      "logo_path": "assets/logos/6ee35ff40664aa.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cloudappsecurity/",
@@ -1601,7 +1601,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13438facd07d73.png"
+      "logo_path": "assets/logos/13438facd07d73.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/uiflow/",
@@ -1626,7 +1626,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d98638167aa827.png"
+      "logo_path": "assets/logos/d98638167aa827.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/documentscorepackapi/",
@@ -1652,7 +1652,7 @@
       "publisher_raw": "mscrm-addons.com ( PTM EDV Systeme )",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f43a90281212e1.png"
+      "logo_path": "assets/logos/f43a90281212e1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/docusign/",
@@ -1678,7 +1678,7 @@
       "publisher_raw": "DocuSign, Inc",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\459d3c9ad17634.png"
+      "logo_path": "assets/logos/459d3c9ad17634.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/docusigndemo/",
@@ -1704,7 +1704,7 @@
       "publisher_raw": "DocuSign, Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bb649be6cbc615.png"
+      "logo_path": "assets/logos/bb649be6cbc615.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dokobitportal/",
@@ -1730,7 +1730,7 @@
       "publisher_raw": "Dokobit",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bf68a99cf80514.png"
+      "logo_path": "assets/logos/bf68a99cf80514.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dropbox/",
@@ -1756,7 +1756,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2f4d191478e743.png"
+      "logo_path": "assets/logos/2f4d191478e743.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dynamicssmbsaas/",
@@ -1782,7 +1782,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c7594a98e48a52.png"
+      "logo_path": "assets/logos/c7594a98e48a52.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dynamicssmbonprem/",
@@ -1808,7 +1808,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13b025eef933d2.png"
+      "logo_path": "assets/logos/13b025eef933d2.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/customerinsights/",
@@ -1834,7 +1834,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ea3f231c19e239.png"
+      "logo_path": "assets/logos/ea3f231c19e239.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftformspro/",
@@ -1860,7 +1860,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7554efef2bcc1c.png"
+      "logo_path": "assets/logos/7554efef2bcc1c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/easyvista/",
@@ -1886,7 +1886,7 @@
       "publisher_raw": "Easyvista",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dba062f9a0e0be.png"
+      "logo_path": "assets/logos/dba062f9a0e0be.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianbarcode/",
@@ -1912,7 +1912,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7489fb6645223d.png"
+      "logo_path": "assets/logos/7489fb6645223d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianconvert/",
@@ -1938,7 +1938,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d49e86210e24d9.png"
+      "logo_path": "assets/logos/d49e86210e24d9.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianexcel/",
@@ -1964,7 +1964,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8c5452328bc8e7.png"
+      "logo_path": "assets/logos/8c5452328bc8e7.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiangeneral/",
@@ -1990,7 +1990,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\eccb470d838b3a.png"
+      "logo_path": "assets/logos/eccb470d838b3a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianimage/",
@@ -2016,7 +2016,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c6b119ca22da4c.png"
+      "logo_path": "assets/logos/c6b119ca22da4c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianpdf/",
@@ -2042,7 +2042,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b6278db1a5e739.png"
+      "logo_path": "assets/logos/b6278db1a5e739.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianpowerpoint/",
@@ -2068,7 +2068,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\27db87d9bd9569.png"
+      "logo_path": "assets/logos/27db87d9bd9569.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiantrigr/",
@@ -2094,7 +2094,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c4a11fba3a38fb.png"
+      "logo_path": "assets/logos/c4a11fba3a38fb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianutilities/",
@@ -2120,7 +2120,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d405f63d432622.png"
+      "logo_path": "assets/logos/d405f63d432622.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianword/",
@@ -2146,7 +2146,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\25e0e0ea791aff.png"
+      "logo_path": "assets/logos/25e0e0ea791aff.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiandocumentmanager/",
@@ -2172,7 +2172,7 @@
       "publisher_raw": "Encodian",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f7b542acddd3e.png"
+      "logo_path": "assets/logos/9f7b542acddd3e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/blockchainethereum/",
@@ -2198,7 +2198,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\375dda4a82f788.png"
+      "logo_path": "assets/logos/375dda4a82f788.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/eventhubs/",
@@ -2224,7 +2224,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6846cd793bcbc0.png"
+      "logo_path": "assets/logos/6846cd793bcbc0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/excel/",
@@ -2249,7 +2249,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ef0712ef516563.png"
+      "logo_path": "assets/logos/ef0712ef516563.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/excelonlinebusiness/",
@@ -2275,7 +2275,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4373445b41f87a.png"
+      "logo_path": "assets/logos/4373445b41f87a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/excelonline/",
@@ -2299,7 +2299,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dbe0c146c1b8d1.png"
+      "logo_path": "assets/logos/dbe0c146c1b8d1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/faceapi/",
@@ -2325,7 +2325,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c836e8389e0f6d.png"
+      "logo_path": "assets/logos/c836e8389e0f6d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/filesystem/",
@@ -2351,7 +2351,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\39caa7f6a397a2.png"
+      "logo_path": "assets/logos/39caa7f6a397a2.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/webmerge/",
@@ -2377,7 +2377,7 @@
       "publisher_raw": "Formstack LLC",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b3f107edca1c37.png"
+      "logo_path": "assets/logos/b3f107edca1c37.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/formstackforms/",
@@ -2403,7 +2403,7 @@
       "publisher_raw": "Formstack LLC",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8eb392c9b4f628.png"
+      "logo_path": "assets/logos/8eb392c9b4f628.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/freshdesk/",
@@ -2429,7 +2429,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ac5d9ce1c53193.png"
+      "logo_path": "assets/logos/ac5d9ce1c53193.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/ftp/",
@@ -2455,7 +2455,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d0faeb81761214.png"
+      "logo_path": "assets/logos/d0faeb81761214.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/github/",
@@ -2481,7 +2481,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ac6647744bd96a.png"
+      "logo_path": "assets/logos/ac6647744bd96a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/gmail/",
@@ -2507,7 +2507,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\34102da2697f6a.png"
+      "logo_path": "assets/logos/34102da2697f6a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/googlecalendar/",
@@ -2533,7 +2533,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8bad83e5b63efc.png"
+      "logo_path": "assets/logos/8bad83e5b63efc.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/googledrive/",
@@ -2559,7 +2559,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\858e8e2b4cee64.png"
+      "logo_path": "assets/logos/858e8e2b4cee64.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/googlesheet/",
@@ -2585,7 +2585,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8e4c57b80dd193.png"
+      "logo_path": "assets/logos/8e4c57b80dd193.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/googletasks/",
@@ -2611,7 +2611,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\074a98caa2913d.png"
+      "logo_path": "assets/logos/074a98caa2913d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/gsaperdiem/",
@@ -2637,7 +2637,7 @@
       "publisher_raw": "Richard Wilson",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\adc1d5ffa1850f.png"
+      "logo_path": "assets/logos/adc1d5ffa1850f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/hashifyip/",
@@ -2663,7 +2663,7 @@
       "publisher_raw": "Troy Taylor, Hitachi Solutions",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\90da67c34666e7.png"
+      "logo_path": "assets/logos/90da67c34666e7.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/highgearworkflow/",
@@ -2689,7 +2689,7 @@
       "publisher_raw": "HighGear Software, Inc",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0b67be0062c603.png"
+      "logo_path": "assets/logos/0b67be0062c603.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/webcontentsv2/",
@@ -2715,7 +2715,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d0689d3dcac31e.png"
+      "logo_path": "assets/logos/d0689d3dcac31e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/webcontents/",
@@ -2741,7 +2741,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e645bd146318d7.png"
+      "logo_path": "assets/logos/e645bd146318d7.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/instagrambasicdispip/",
@@ -2767,7 +2767,7 @@
       "publisher_raw": "Reshmee Auckloo",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b8c1fb42372260.png"
+      "logo_path": "assets/logos/b8c1fb42372260.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/instapaper/",
@@ -2793,7 +2793,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\06b91fb95e991a.png"
+      "logo_path": "assets/logos/06b91fb95e991a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/jira/",
@@ -2819,7 +2819,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c347ccc2f1b8e8.png"
+      "logo_path": "assets/logos/c347ccc2f1b8e8.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/jotform/",
@@ -2843,7 +2843,7 @@
       "publisher_raw": "JotForm Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\256e68f67a0f24.png"
+      "logo_path": "assets/logos/256e68f67a0f24.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/jotformenterprise/",
@@ -2869,7 +2869,7 @@
       "publisher_raw": "JotForm Admin",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\29708f590d1799.png"
+      "logo_path": "assets/logos/29708f590d1799.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/languagequestionansw/",
@@ -2895,7 +2895,7 @@
       "publisher_raw": "Microsot",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\775618c3d0fcf5.png"
+      "logo_path": "assets/logos/775618c3d0fcf5.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/lawvu/",
@@ -2921,7 +2921,7 @@
       "publisher_raw": "LAWVU LIMITED",
       "available_in": "GCC, GCC High",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\37f5281a5a4713.png"
+      "logo_path": "assets/logos/37f5281a5a4713.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/lms365/",
@@ -2947,7 +2947,7 @@
       "publisher_raw": "Zensai International Aps",
       "available_in": "GCC, GCC High",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1ceaa96bae1f66.png"
+      "logo_path": "assets/logos/1ceaa96bae1f66.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/linkedinv2/",
@@ -2973,7 +2973,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\21b0afac607c7e.png"
+      "logo_path": "assets/logos/21b0afac607c7e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/luis/",
@@ -2999,7 +2999,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f5422219876511.png"
+      "logo_path": "assets/logos/f5422219876511.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sendmail/",
@@ -3024,7 +3024,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cdb39c9e45daa3.png"
+      "logo_path": "assets/logos/cdb39c9e45daa3.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/mailchimp/",
@@ -3050,7 +3050,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b135cb87a43f5c.png"
+      "logo_path": "assets/logos/b135cb87a43f5c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/mappro/",
@@ -3076,7 +3076,7 @@
       "publisher_raw": "Witivio",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2b7f1c28c881fe.png"
+      "logo_path": "assets/logos/2b7f1c28c881fe.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/marketoma/",
@@ -3102,7 +3102,7 @@
       "publisher_raw": "Microsoft Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6dce99d7f086d3.png"
+      "logo_path": "assets/logos/6dce99d7f086d3.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoft365compliance/",
@@ -3125,7 +3125,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\eadce03ebd9e53.png"
+      "logo_path": "assets/logos/eadce03ebd9e53.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/m365messagecenter/",
@@ -3151,7 +3151,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b62d74e76c3c96.png"
+      "logo_path": "assets/logos/b62d74e76c3c96.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftcopilotstudio/",
@@ -3176,7 +3176,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a76d1f6d16a753.png"
+      "logo_path": "assets/logos/a76d1f6d16a753.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/wdatp/",
@@ -3202,7 +3202,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5695702bc920b5.png"
+      "logo_path": "assets/logos/5695702bc920b5.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/azuread/",
@@ -3228,7 +3228,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ee3d48f876a92b.png"
+      "logo_path": "assets/logos/ee3d48f876a92b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftforms/",
@@ -3252,7 +3252,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\657cf9388d8ce9.png"
+      "logo_path": "assets/logos/657cf9388d8ce9.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/teams/",
@@ -3278,7 +3278,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c32a00254067fb.png"
+      "logo_path": "assets/logos/c32a00254067fb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/todo/",
@@ -3304,7 +3304,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f9716d375f8ef0.png"
+      "logo_path": "assets/logos/f9716d375f8ef0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/todoconsumer/",
@@ -3330,7 +3330,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\600821b3693a25.png"
+      "logo_path": "assets/logos/600821b3693a25.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/translatorv2/",
@@ -3356,7 +3356,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\963ef5bb1522ec.png"
+      "logo_path": "assets/logos/963ef5bb1522ec.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianfiler/",
@@ -3382,7 +3382,7 @@
       "publisher_raw": "Mizorix Ltd",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a4fa893f4a133d.png"
+      "logo_path": "assets/logos/a4fa893f4a133d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/msnweather/",
@@ -3408,7 +3408,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8cebe8371b66e4.png"
+      "logo_path": "assets/logos/8cebe8371b66e4.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/mysql/",
@@ -3434,7 +3434,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c8d0b81b7a83ca.png"
+      "logo_path": "assets/logos/c8d0b81b7a83ca.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/nationalparkserviceip/",
@@ -3460,7 +3460,7 @@
       "publisher_raw": "Troy Taylor, Hitachi Solutions",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\092518542784ff.png"
+      "logo_path": "assets/logos/092518542784ff.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/flowpush/",
@@ -3483,7 +3483,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cc37a58c9e542d.png"
+      "logo_path": "assets/logos/cc37a58c9e542d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/muhimbi/",
@@ -3509,7 +3509,7 @@
       "publisher_raw": "Muhimbi trading as Nutrient",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13f801b64b146f.png"
+      "logo_path": "assets/logos/13f801b64b146f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/office365groups/",
@@ -3535,7 +3535,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\78c8ebf4bc03fb.png"
+      "logo_path": "assets/logos/78c8ebf4bc03fb.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/office365groupsmail/",
@@ -3561,7 +3561,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e0548fb9961043.png"
+      "logo_path": "assets/logos/e0548fb9961043.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/office365/",
@@ -3587,7 +3587,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9e56eb8bcd603a.png"
+      "logo_path": "assets/logos/9e56eb8bcd603a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/office365users/",
@@ -3613,7 +3613,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f6754878274023.png"
+      "logo_path": "assets/logos/f6754878274023.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/onedrive/",
@@ -3639,7 +3639,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8395bde9747762.png"
+      "logo_path": "assets/logos/8395bde9747762.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/onedriveforbusiness/",
@@ -3665,7 +3665,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5fab4b7b0852e9.png"
+      "logo_path": "assets/logos/5fab4b7b0852e9.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/onenote/",
@@ -3691,7 +3691,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\86f68cfc425c8d.png"
+      "logo_path": "assets/logos/86f68cfc425c8d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextcoreshare/",
@@ -3717,7 +3717,7 @@
       "publisher_raw": "One Fox",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8196cb35ce266d.png"
+      "logo_path": "assets/logos/8196cb35ce266d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextdocumentum/",
@@ -3743,7 +3743,7 @@
       "publisher_raw": "One Fox",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f2a7012085d60d.png"
+      "logo_path": "assets/logos/f2a7012085d60d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextedocsbyonefox/",
@@ -3769,7 +3769,7 @@
       "publisher_raw": "One Fox",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\db689b1a421e02.png"
+      "logo_path": "assets/logos/db689b1a421e02.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextcsbyonefox/",
@@ -3795,7 +3795,7 @@
       "publisher_raw": "One Fox",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7abd0e02924324.png"
+      "logo_path": "assets/logos/7abd0e02924324.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/oracle/",
@@ -3821,7 +3821,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ea688ef1daa93.png"
+      "logo_path": "assets/logos/9ea688ef1daa93.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/outlooktasks/",
@@ -3847,7 +3847,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1c453b917b8b82.png"
+      "logo_path": "assets/logos/1c453b917b8b82.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/outlook/",
@@ -3873,7 +3873,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f7c9097d547a5c.png"
+      "logo_path": "assets/logos/f7c9097d547a5c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/pagerduty/",
@@ -3899,7 +3899,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a57c44211b9622.png"
+      "logo_path": "assets/logos/a57c44211b9622.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/planner/",
@@ -3925,7 +3925,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a582e3ae3df0d5.png"
+      "logo_path": "assets/logos/a582e3ae3df0d5.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailsp/",
@@ -3951,7 +3951,7 @@
       "publisher_raw": "Plumsail",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bd8bfa7de13556.png"
+      "logo_path": "assets/logos/bd8bfa7de13556.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsail/",
@@ -3977,7 +3977,7 @@
       "publisher_raw": "Plumsail",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d3ec4b7d331a41.png"
+      "logo_path": "assets/logos/d3ec4b7d331a41.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailforms/",
@@ -4003,7 +4003,7 @@
       "publisher_raw": "Plumsail Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7ad92999e17b53.png"
+      "logo_path": "assets/logos/7ad92999e17b53.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailhelpdesk/",
@@ -4029,7 +4029,7 @@
       "publisher_raw": "Plumsail Inc",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a5fae9e483ce21.png"
+      "logo_path": "assets/logos/a5fae9e483ce21.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/projectroadmap/",
@@ -4054,7 +4054,7 @@
       "publisher_raw": "",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cdd788a6527cc3.png"
+      "logo_path": "assets/logos/cdd788a6527cc3.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/postgresql/",
@@ -4080,7 +4080,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d5142f6627f9b1.png"
+      "logo_path": "assets/logos/d5142f6627f9b1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsforadmins/",
@@ -4105,7 +4105,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\198dbba7a313de.png"
+      "logo_path": "assets/logos/198dbba7a313de.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsforappmakers/",
@@ -4130,7 +4130,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\df71bd450c6302.png"
+      "logo_path": "assets/logos/df71bd450c6302.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsnotification/",
@@ -4155,7 +4155,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\98a9bd521e097c.png"
+      "logo_path": "assets/logos/98a9bd521e097c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsnotificationv2/",
@@ -4180,7 +4180,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\85ed9268563a0f.png"
+      "logo_path": "assets/logos/85ed9268563a0f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftflowforadmins/",
@@ -4205,7 +4205,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\405770c99fe025.png"
+      "logo_path": "assets/logos/405770c99fe025.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/flowmanagement/",
@@ -4230,7 +4230,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8585438ec61618.png"
+      "logo_path": "assets/logos/8585438ec61618.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerbi/",
@@ -4256,7 +4256,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\989d627c7e5c5f.png"
+      "logo_path": "assets/logos/989d627c7e5c5f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerplatformforadmins/",
@@ -4281,7 +4281,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5e71b90c1a383a.png"
+      "logo_path": "assets/logos/5e71b90c1a383a.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powerplatformadminv2/",
@@ -4307,7 +4307,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5ffe87ffddb317.png"
+      "logo_path": "assets/logos/5ffe87ffddb317.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/dataflows/",
@@ -4333,7 +4333,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9945001c005442.png"
+      "logo_path": "assets/logos/9945001c005442.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/powervirtualagents/",
@@ -4356,7 +4356,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d1a5a6ef0cfc7e.png"
+      "logo_path": "assets/logos/d1a5a6ef0cfc7e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/processmining/",
@@ -4381,7 +4381,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\df9ea22f69058c.png"
+      "logo_path": "assets/logos/df9ea22f69058c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/processstreet/",
@@ -4407,7 +4407,7 @@
       "publisher_raw": "Process Street",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3d43943254b425.png"
+      "logo_path": "assets/logos/3d43943254b425.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/projectonline/",
@@ -4433,7 +4433,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\774038bbf3e47f.png"
+      "logo_path": "assets/logos/774038bbf3e47f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicesqnamaker/",
@@ -4459,7 +4459,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ab6778f0570fe.png"
+      "logo_path": "assets/logos/6ab6778f0570fe.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/quickchartip/",
@@ -4485,7 +4485,7 @@
       "publisher_raw": "Troy Taylor",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\72abeddf913a33.png"
+      "logo_path": "assets/logos/72abeddf913a33.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/recordedfutureidenti/",
@@ -4511,7 +4511,7 @@
       "publisher_raw": "Recorded Future",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e7dfd7c53b3e8b.png"
+      "logo_path": "assets/logos/e7dfd7c53b3e8b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/recordedfuturev2/",
@@ -4537,7 +4537,7 @@
       "publisher_raw": "Recorded Future",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a7ac9668667152.png"
+      "logo_path": "assets/logos/a7ac9668667152.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/regolink/",
@@ -4563,7 +4563,7 @@
       "publisher_raw": "Rego Consulting Corporation",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e5a7f786509a87.png"
+      "logo_path": "assets/logos/e5a7f786509a87.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/rss/",
@@ -4589,7 +4589,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ecd6cba459b0a4.png"
+      "logo_path": "assets/logos/ecd6cba459b0a4.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/saperp/",
@@ -4614,7 +4614,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5c323be28e3f7b.png"
+      "logo_path": "assets/logos/5c323be28e3f7b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sapodata/",
@@ -4640,7 +4640,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e539effda0539b.png"
+      "logo_path": "assets/logos/e539effda0539b.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sendgrid/",
@@ -4666,7 +4666,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ea273343a05710.png"
+      "logo_path": "assets/logos/ea273343a05710.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/servicebus-1/",
@@ -4692,7 +4692,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\56e20fc6b354b6.png"
+      "logo_path": "assets/logos/56e20fc6b354b6.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/service-now/",
@@ -4718,7 +4718,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\442d5cff7d3a47.png"
+      "logo_path": "assets/logos/442d5cff7d3a47.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sftpwithssh/",
@@ -4744,7 +4744,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1f3b94853c0904.png"
+      "logo_path": "assets/logos/1f3b94853c0904.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sftp/",
@@ -4770,7 +4770,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\036343e4a45785.png"
+      "logo_path": "assets/logos/036343e4a45785.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sharepointonline/",
@@ -4796,7 +4796,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f1fa6a768541f.png"
+      "logo_path": "assets/logos/9f1fa6a768541f.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/shifts/",
@@ -4822,7 +4822,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e82ff16a045a60.png"
+      "logo_path": "assets/logos/e82ff16a045a60.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/shrtcodeip/",
@@ -4848,7 +4848,7 @@
       "publisher_raw": "Chandra Sekhar Malla",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c608aad938a5ca.png"
+      "logo_path": "assets/logos/c608aad938a5ca.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/signnow/",
@@ -4874,7 +4874,7 @@
       "publisher_raw": "DaDaDocs",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e94a16f02febaa.png"
+      "logo_path": "assets/logos/e94a16f02febaa.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/slack/",
@@ -4900,7 +4900,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\242fd9407f50b6.png"
+      "logo_path": "assets/logos/242fd9407f50b6.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/smartsheet/",
@@ -4926,7 +4926,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a9378f2685b772.png"
+      "logo_path": "assets/logos/a9378f2685b772.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/smtp/",
@@ -4952,7 +4952,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\83eb1a40ae665c.png"
+      "logo_path": "assets/logos/83eb1a40ae665c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/sql/",
@@ -4978,7 +4978,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\44d7d119fa678d.png"
+      "logo_path": "assets/logos/44d7d119fa678d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/approvals/",
@@ -5003,7 +5003,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\14d7b8d3e9ffa9.png"
+      "logo_path": "assets/logos/14d7b8d3e9ffa9.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/survey123/",
@@ -5029,7 +5029,7 @@
       "publisher_raw": "ArcGIS Survey123",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\045aba14d69c9c.png"
+      "logo_path": "assets/logos/045aba14d69c9c.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/surveymonkey/",
@@ -5055,7 +5055,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f5ea773d056f79.png"
+      "logo_path": "assets/logos/f5ea773d056f79.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/teradata/",
@@ -5081,7 +5081,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b7ef842e267144.png"
+      "logo_path": "assets/logos/b7ef842e267144.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/themealdbip/",
@@ -5107,7 +5107,7 @@
       "publisher_raw": "John Muchiri",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d982d332f5fe82.png"
+      "logo_path": "assets/logos/d982d332f5fe82.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/tikit/",
@@ -5133,7 +5133,7 @@
       "publisher_raw": "Cireson",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b352459b2ddc17.png"
+      "logo_path": "assets/logos/b352459b2ddc17.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/trello/",
@@ -5159,7 +5159,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5a06707379c34e.png"
+      "logo_path": "assets/logos/5a06707379c34e.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/twilio/",
@@ -5185,7 +5185,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4f0a4676a7edea.png"
+      "logo_path": "assets/logos/4f0a4676a7edea.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/typeform/",
@@ -5209,7 +5209,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f470090ebce5d.png"
+      "logo_path": "assets/logos/9f470090ebce5d.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/ventipixassetandinventory/",
@@ -5235,7 +5235,7 @@
       "publisher_raw": "Ventipix",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ff30f1fc5baabc.png"
+      "logo_path": "assets/logos/ff30f1fc5baabc.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/videoindexer-v2/",
@@ -5261,7 +5261,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f3b3254659b6fc.png"
+      "logo_path": "assets/logos/f3b3254659b6fc.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/viesip/",
@@ -5287,7 +5287,7 @@
       "publisher_raw": "Tomasz Poszytek",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5b0a3e6fdaece1.png"
+      "logo_path": "assets/logos/5b0a3e6fdaece1.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/yammer/",
@@ -5313,7 +5313,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3ed5824ab8c4d0.png"
+      "logo_path": "assets/logos/3ed5824ab8c4d0.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/woocommerce/",
@@ -5339,7 +5339,7 @@
       "publisher_raw": "Reenhanced, LLC",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\58966b394675b2.png"
+      "logo_path": "assets/logos/58966b394675b2.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/wordonlinebusiness/",
@@ -5365,7 +5365,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a4267455332eab.png"
+      "logo_path": "assets/logos/a4267455332eab.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/wordpress/",
@@ -5391,7 +5391,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\77d398c7e64ce6.png"
+      "logo_path": "assets/logos/77d398c7e64ce6.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/twitter/",
@@ -5417,7 +5417,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\212263bb71ab68.png"
+      "logo_path": "assets/logos/212263bb71ab68.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/xkcdip/",
@@ -5443,7 +5443,7 @@
       "publisher_raw": "Troy Taylor",
       "available_in": "GCC, GCC High, DoD",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\889969720c0494.png"
+      "logo_path": "assets/logos/889969720c0494.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/youtube/",
@@ -5467,7 +5467,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1cefdb89d8f657.png"
+      "logo_path": "assets/logos/1cefdb89d8f657.png"
     },
     {
       "learn_url": "https://learn.microsoft.com/en-us/connectors/zendesk/",
@@ -5493,7 +5493,7 @@
       "publisher_raw": "Microsoft",
       "available_in": "GCC",
       "products_display": "Logic Apps, Power Automate, Power Apps",
-      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\fe7e8ec8483cc2.png"
+      "logo_path": "assets/logos/fe7e8ec8483cc2.png"
     }
   ]
 }

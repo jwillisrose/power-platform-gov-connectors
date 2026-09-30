@@ -56,7 +56,8 @@ from the **Actions** tab (`workflow_dispatch`). Each run:
    release status, tier, or renames), appends a dated entry to
    `data/change-log.json`.
 4. Regenerates the DOCX and PDF handouts and PowerPoint deck in
-   `assets/documents/`, including the latest change-log note on the handout.
+   `assets/documents/` when the dataset or source dates change, including the
+   latest change-log note on the handout.
 5. Opens a **pull request** with all changed files — it never commits
    directly to `main`. Review the diff (especially `data/change-log.json`)
    and merge to publish; merging to `main` triggers the Pages deployment

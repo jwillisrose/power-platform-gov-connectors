@@ -1073,10 +1073,19 @@ def main():
 
     new_entry = record_change_log_entry(previous_records, records)
 
-    DATA_PATH.write_text(json.dumps({"source_dates": source_dates, "records": records}, indent=2), encoding="utf-8")
-    create_pptx(records, source_dates)
-    create_docx(records, source_dates, latest_change_note(load_change_log()))
-    convert_docx_to_pdf()
+    dataset_json = json.dumps({"source_dates": source_dates, "records": records}, indent=2)
+    previous_dataset_json = DATA_PATH.read_text(encoding="utf-8") if DATA_PATH.exists() else None
+    dataset_changed = dataset_json != previous_dataset_json
+    DATA_PATH.write_text(dataset_json, encoding="utf-8")
+
+    document_paths = [PPTX_PATH, DOCX_PATH, PDF_PATH]
+    documents_regenerated = dataset_changed or any(
+        not path.is_file() or path.stat().st_size == 0 for path in document_paths
+    )
+    if documents_regenerated:
+        create_pptx(records, source_dates)
+        create_docx(records, source_dates, latest_change_note(load_change_log()))
+        convert_docx_to_pdf()
     validate_outputs()
 
     counts = {
@@ -1097,6 +1106,7 @@ def main():
                 "pptx": str(PPTX_PATH),
                 "docx": str(DOCX_PATH),
                 "pdf": str(PDF_PATH),
+                "documents_regenerated": documents_regenerated,
                 "change_log_entry": new_entry,
             },
             indent=2,

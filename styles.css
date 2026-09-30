@@ -576,6 +576,11 @@ footer {
   font-size: 12px;
 }
 
+.footer-content a {
+  color: inherit;
+  font-weight: 650;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

@@ -1,0 +1,5499 @@
+{
+  "source_dates": {
+    "https://learn.microsoft.com/en-us/connectors/connector-reference/": "2026-09-22T19:07:00Z",
+    "https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerapps-connectors": "2026-09-22T19:07:00Z",
+    "https://learn.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors": "2026-09-22T19:07:00Z"
+  },
+  "records": [
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/adobesign/",
+      "name": "Adobe Acrobat Sign",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1783/1.0.1783.4453/adobesign/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: ADOBE INC",
+      "publisher_raw": "ADOBE INC",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b21f0c4bc20769.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/adobepdftools/",
+      "name": "Adobe PDF Services",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4653/adobepdftools/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Adobe Acrobat Services",
+      "publisher_raw": "Adobe Acrobat Services",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b1d28f0a899570.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/amazonredshift/",
+      "name": "Amazon Redshift [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/amazonredshift/icon.png",
+      "availability": {
+        "GCC": false,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2efebd0f46cef6.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/amazons3/",
+      "name": "Amazon S3",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/amazons3/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft",
+      "publisher_raw": "",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\febc7f2a3c20e2.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/impala/",
+      "name": "Apache Impala [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/impala/icon.png",
+      "availability": {
+        "GCC": false,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ed23802871b91.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgis/",
+      "name": "ArcGIS",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1817/1.0.1817.4778/arcgis/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Esri, Inc",
+      "publisher_raw": "Esri, Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2e3ebbc1f5b066.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgisenterprise/",
+      "name": "ArcGIS Enterprise",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/arcgisenterprise/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Esri, Inc",
+      "publisher_raw": "Esri, Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\46b359d3e4df71.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/arcgispaas/",
+      "name": "ArcGIS PaaS",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1793/1.0.1793.4612/arcgispaas/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Esri, Inc",
+      "publisher_raw": "Esri, Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f0c7a9bf0250a7.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/asiteusgov/",
+      "name": "Asite (US Gov.)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/asiteusgov/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Asite Solutions Limited",
+      "publisher_raw": "Asite Solutions Limited",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bec64d31584c47.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/bizzy/",
+      "name": "AtBot Logic",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/bizzy/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: H3 Solutions Inc",
+      "publisher_raw": "H3 Solutions Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\941f2046183b3a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/avepointcloudgovernance/",
+      "name": "AvePoint Cloud Governance",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1758/1.0.1758.4260/avepointcloudgovernance/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: AvePoint, inc",
+      "publisher_raw": "AvePoint, inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ec149c15925c01.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaisearchfoundryiq/",
+      "name": "Azure - Foundry IQ",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1814/1.0.1814.4751/azureaisearchfoundryiq/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\717c9a2bda7f0b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/formrecognizer/",
+      "name": "Azure AI Document Intelligence (form recognizer)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1783/1.0.1783.4453/formrecognizer/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\996ca90749d504.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaifoundryinference/",
+      "name": "Azure AI Foundry Inference",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1797/1.0.1797.4613/azureaifoundryinference/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\898223ce937184.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureaisearch/",
+      "name": "Azure AI Search",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/azureaisearch/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\fcaba8070794fb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureappservice/",
+      "name": "Azure App Service",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1679/1.0.1679.3643/azureappservice/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft",
+      "publisher_raw": "",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\aace4a7e674127.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/applicationinsights/",
+      "name": "Azure Application Insights [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/ApplicationInsights/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a065d5d133aeff.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureautomation/",
+      "name": "Azure Automation",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/azureautomation/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f47a06a8a39fd4.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicesspe/",
+      "name": "Azure Batch Speech-to-text",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1780/1.0.1780.4444/cognitiveservicesspe/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b18a5337e3d7b3.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureblob/",
+      "name": "Azure Blob Storage",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4782/azureblob/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4a1951e865a268.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicestextanalytics/",
+      "name": "Azure Cognitive Service for Language",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/CognitiveServicesTextAnalytics/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ce74f540d7aec.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/aci/",
+      "name": "Azure Container Instance",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/jameslim/0117/1.0.1733.4077/aci/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c9d00a50a0af81.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/documentdb/",
+      "name": "Azure Cosmos DB",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1747/1.0.1748.4181/documentdb/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0f227b8364eb72.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/kusto/",
+      "name": "Azure Data Explorer",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/kusto/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\75cb3a99e44a7a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuredatafactory/",
+      "name": "Azure Data Factory",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/azuredatafactory/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9dbcae45e653e0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremysql/",
+      "name": "Azure Database for MySQL",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/azuremysql/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3b06f6bafc9b56.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/visualstudioteamservices/",
+      "name": "Azure DevOps",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4711/visualstudioteamservices/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4648e02b99e07b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureeventgrid/",
+      "name": "Azure Event Grid",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1680/1.0.1680.3652/azureeventgrid/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a9c6a17d22ef43.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureeventgridpublish/",
+      "name": "Azure Event Grid Publish",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/azureeventgridpublish/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\87eab4ecf4dcfe.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azurefile/",
+      "name": "Azure File Storage",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/azurefile/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1159dd10768d24.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/keyvault/",
+      "name": "Azure Key Vault",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/keyvault/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dc2c4f7bb77678.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azureloganalyticsdatacollector/",
+      "name": "Azure Log Analytics Data Collector",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/azureloganalyticsdatacollector/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\10b66ac3ba207e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremaps/",
+      "name": "Azure Maps",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/azuremaps/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\747b6b5058c03e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremonitorlogs/",
+      "name": "Azure Monitor Logs",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/azuremonitorlogs/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8665334102e0d7.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuremonitorlogsingestion/",
+      "name": "Azure Monitor Logs Ingestion",
+      "icon_url": "https://connectoricons-prod.azureedge.net/releases/v1.0.1821/1.0.1821.4816/azuremonitorlogsingestion/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ea8427724a337.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azurequeues/",
+      "name": "Azure Queues",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1793/1.0.1793.4565/azurequeues/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e0a50b41a2ae99.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/arm/",
+      "name": "Azure Resource Manager",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1751/1.0.1751.4207/arm/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f342d053b1cb0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azurespeechpronuncia/",
+      "name": "Azure Speech Pronunciation Assessment",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1724/1.0.1724.3998/azurespeechpronuncia/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bc43ef3944c0c9.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sqldw/",
+      "name": "Azure SQL Data Warehouse",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1807/1.0.1807.4698/sqldw/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1b4a9d78eb2468.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuretables/",
+      "name": "Azure Table Storage",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/azuretables/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\49a17dbc9c4834.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuretexttospeech/",
+      "name": "Azure Text to speech",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1812/1.0.1812.4737/azuretexttospeech/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\27dfc79f2b4f9f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azurevm/",
+      "name": "Azure VM",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1780/1.0.1780.4444/azurevm/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft",
+      "publisher_raw": "",
+      "available_in": "GCC, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7cacbd3a7114d1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/bingmaps/",
+      "name": "Bing Maps",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1783/1.0.1783.4453/bingmaps/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f1906ca5da4c54.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/bingsearch/",
+      "name": "Bing Search",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/bingsearch/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bcb54d18915e7f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/bitly/",
+      "name": "Bitly",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/bitly/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1b199929a53228.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/boomappconnect/",
+      "name": "boomapp connect",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/boomappconnect/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Boomerang I-Comms Ltd",
+      "publisher_raw": "Boomerang I-Comms Ltd",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\42785a6849d3d1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/box/",
+      "name": "Box",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1813/1.0.1813.4745/box/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\aa92cb5915fa92.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/calendarpro/",
+      "name": "Calendar Pro",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/calendarpro/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Witivio",
+      "publisher_raw": "Witivio",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\48237cf429b70e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/civicplustransform/",
+      "name": "CivicPlus Transform",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1789/1.0.1789.4593/civicplustransform/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: OneBlink",
+      "publisher_raw": "OneBlink",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8a1e30a92146b0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cloudmersive/",
+      "name": "Cloudmersive Virus Scan",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/cloudmersive/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Non-Microsoft: Cloudmersive, LLC",
+      "publisher_raw": "Cloudmersive, LLC",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8328ba551287eb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescomputervision/",
+      "name": "Computer Vision API",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/cognitiveservicescomputervision/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\84a9c43f470313.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/confluence/",
+      "name": "Confluence",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1811/1.0.1811.4737/confluence/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\09d8098a5627bb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/conversionservice/",
+      "name": "Content Conversion",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/conversionservice/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0500dfae49523f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescontentmoderator/",
+      "name": "Content Moderator",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/cognitiveservicescontentmoderator/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5832d2a314c030.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/blockchaincorda/",
+      "name": "Corda Blockchain [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/blockchaincorda/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d3df19260cd00a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cpscrecallsretrievalip/",
+      "name": "CPSC Recalls Retrieval (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/cpscrecallsretrievalip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor",
+      "publisher_raw": "Troy Taylor",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2af782c34a890c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/craftmypdfip/",
+      "name": "CraftMyPDF (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/craftmypdfip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor",
+      "publisher_raw": "Troy Taylor",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c82580f39a0614.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicescustomvision/",
+      "name": "Custom Vision",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/cognitiveservicescustomvision/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9bc8f43d654c33.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dataactivator/",
+      "name": "Data Activator",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1722/1.0.1722.3973/dataactivator/icon.png",
+      "availability": {
+        "GCC": false,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Microsoft, Data Activator",
+      "publisher_raw": "Microsoft, Data Activator",
+      "available_in": "GCC High",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0a77b2cdf53e3b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/datascopeforms/",
+      "name": "DataScope Forms",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/datascopeforms/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: DataScope",
+      "publisher_raw": "DataScope",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5cac535b4316bc.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/db2/",
+      "name": "DB2",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4431/db2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ee35ff40664aa.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cloudappsecurity/",
+      "name": "Defender for Cloud Apps",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1780/1.0.1780.4444/cloudappsecurity/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13438facd07d73.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/uiflow/",
+      "name": "Desktop flows",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/uiflow/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d98638167aa827.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/documentscorepackapi/",
+      "name": "DocumentsCorePack",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1784/1.0.1784.4512/documentscorepackapi/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: mscrm-addons.com ( PTM EDV Systeme )",
+      "publisher_raw": "mscrm-addons.com ( PTM EDV Systeme )",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f43a90281212e1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/docusign/",
+      "name": "Docusign",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1784/1.0.1784.4488/docusign/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: DocuSign, Inc",
+      "publisher_raw": "DocuSign, Inc",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\459d3c9ad17634.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/docusigndemo/",
+      "name": "Docusign Demo",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4809/docusigndemo/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Non-Microsoft: DocuSign, Inc",
+      "publisher_raw": "DocuSign, Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bb649be6cbc615.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dokobitportal/",
+      "name": "Dokobit Portal",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/dokobitportal/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Dokobit",
+      "publisher_raw": "Dokobit",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bf68a99cf80514.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dropbox/",
+      "name": "Dropbox",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/dropbox/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2f4d191478e743.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dynamicssmbsaas/",
+      "name": "Dynamics 365 Business Central",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1810/1.0.1810.4746/dynamicssmbsaas/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c7594a98e48a52.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dynamicssmbonprem/",
+      "name": "Dynamics 365 Business Central (on-premises)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/dynamicssmbonprem/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13b025eef933d2.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/customerinsights/",
+      "name": "Dynamics 365 Customer Insights",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/customerinsights/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ea3f231c19e239.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftformspro/",
+      "name": "Dynamics 365 Customer Voice",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/microsoftformspro/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7554efef2bcc1c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/easyvista/",
+      "name": "EasyVista Service Manager",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/easyvista/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Easyvista",
+      "publisher_raw": "Easyvista",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dba062f9a0e0be.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianbarcode/",
+      "name": "Encodian - Barcode",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4670/encodianbarcode/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7489fb6645223d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianconvert/",
+      "name": "Encodian - Convert",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4671/encodianconvert/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d49e86210e24d9.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianexcel/",
+      "name": "Encodian - Excel",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4448/encodianexcel/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8c5452328bc8e7.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiangeneral/",
+      "name": "Encodian - General",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4613/encodiangeneral/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\eccb470d838b3a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianimage/",
+      "name": "Encodian - Image",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4672/encodianimage/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c6b119ca22da4c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianpdf/",
+      "name": "Encodian - PDF",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4674/encodianpdf/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b6278db1a5e739.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianpowerpoint/",
+      "name": "Encodian - PowerPoint",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1757/1.0.1757.4256/encodianpowerpoint/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\27db87d9bd9569.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiantrigr/",
+      "name": "Encodian - Sign",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4673/encodiantrigr/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c4a11fba3a38fb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianutilities/",
+      "name": "Encodian - Utilities",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4675/encodianutilities/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d405f63d432622.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianword/",
+      "name": "Encodian - Word",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1799/1.0.1799.4626/encodianword/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\25e0e0ea791aff.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodiandocumentmanager/",
+      "name": "Encodian [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4805/encodiandocumentmanager/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Encodian",
+      "publisher_raw": "Encodian",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f7b542acddd3e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/blockchainethereum/",
+      "name": "Ethereum Blockchain [DEPRECATED]",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/blockchainethereum/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\375dda4a82f788.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/eventhubs/",
+      "name": "Event Hubs",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/eventhubs/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6846cd793bcbc0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/excel/",
+      "name": "Excel [DEPRECATED]",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4431/excel/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ef0712ef516563.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/excelonlinebusiness/",
+      "name": "Excel Online (Business)",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1817/1.0.1817.4778/excelonlinebusiness/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4373445b41f87a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/excelonline/",
+      "name": "Excel Online (OneDrive)",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1817/1.0.1817.4778/excelonline/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\dbe0c146c1b8d1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/faceapi/",
+      "name": "Face API",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1773/1.0.1773.4378/faceapi/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c836e8389e0f6d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/filesystem/",
+      "name": "File System",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/filesystem/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\39caa7f6a397a2.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/webmerge/",
+      "name": "Formstack Documents",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1773/1.0.1773.4378/webmerge/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Formstack LLC",
+      "publisher_raw": "Formstack LLC",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b3f107edca1c37.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/formstackforms/",
+      "name": "Formstack Forms",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/FormstackForms/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Formstack LLC",
+      "publisher_raw": "Formstack LLC",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8eb392c9b4f628.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/freshdesk/",
+      "name": "Freshdesk",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/freshdesk/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ac5d9ce1c53193.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/ftp/",
+      "name": "FTP",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/ftp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d0faeb81761214.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/github/",
+      "name": "GitHub",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/Github/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ac6647744bd96a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/gmail/",
+      "name": "Gmail",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/gmail/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\34102da2697f6a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/googlecalendar/",
+      "name": "Google Calendar",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1783/1.0.1783.4453/googlecalendar/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8bad83e5b63efc.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/googledrive/",
+      "name": "Google Drive",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/googledrive/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\858e8e2b4cee64.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/googlesheet/",
+      "name": "Google Sheets",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1807/1.0.1807.4698/googlesheet/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8e4c57b80dd193.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/googletasks/",
+      "name": "Google Tasks",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/googletasks/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\074a98caa2913d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/gsaperdiem/",
+      "name": "GSA Per Diem (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/v-sekonda/gsaperdiem_GOVClouds/1.0.1704.3830/gsaperdiem/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Richard Wilson",
+      "publisher_raw": "Richard Wilson",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\adc1d5ffa1850f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/hashifyip/",
+      "name": "Hashify (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/HashifyIP/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor, Hitachi Solutions",
+      "publisher_raw": "Troy Taylor, Hitachi Solutions",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\90da67c34666e7.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/highgearworkflow/",
+      "name": "HighGear Workflow",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1718/1.0.1718.3944/highgearworkflow/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: HighGear Software, Inc",
+      "publisher_raw": "HighGear Software, Inc",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\0b67be0062c603.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/webcontentsv2/",
+      "name": "HTTP With Microsoft Entra ID",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1782/1.0.1782.4448/WebContentsV2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d0689d3dcac31e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/webcontents/",
+      "name": "HTTP with Microsoft Entra ID (preauthorized)",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/webcontents/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e645bd146318d7.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/instagrambasicdispip/",
+      "name": "Instagram Basic Display (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1739/1.0.1739.4139/instagrambasicdispip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Reshmee Auckloo",
+      "publisher_raw": "Reshmee Auckloo",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b8c1fb42372260.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/instapaper/",
+      "name": "Instapaper",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/instapaper/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\06b91fb95e991a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/jira/",
+      "name": "Jira",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/jira/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c347ccc2f1b8e8.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/jotform/",
+      "name": "JotForm",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/jotform/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: JotForm Inc",
+      "publisher_raw": "JotForm Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\256e68f67a0f24.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/jotformenterprise/",
+      "name": "Jotform Enterprise",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/JotFormEnterprise/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: JotForm Admin",
+      "publisher_raw": "JotForm Admin",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\29708f590d1799.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/languagequestionansw/",
+      "name": "Language - Question Answering",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/languagequestionansw/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Microsot",
+      "publisher_raw": "Microsot",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\775618c3d0fcf5.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/lawvu/",
+      "name": "LawVu",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1779/1.0.1779.4433/lawvu/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: LAWVU LIMITED",
+      "publisher_raw": "LAWVU LIMITED",
+      "available_in": "GCC, GCC High",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\37f5281a5a4713.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/lms365/",
+      "name": "Learn365",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1783/1.0.1783.4453/lms365/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Zensai International Aps",
+      "publisher_raw": "Zensai International Aps",
+      "available_in": "GCC, GCC High",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1ceaa96bae1f66.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/linkedinv2/",
+      "name": "LinkedIn V2",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1806/1.0.1806.4672/linkedinv2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\21b0afac607c7e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/luis/",
+      "name": "LUIS",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/luis/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f5422219876511.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sendmail/",
+      "name": "Mail",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/sendmail/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cdb39c9e45daa3.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/mailchimp/",
+      "name": "MailChimp",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/olshyron/aadil_plugins/1.0.1667.3502/mailchimp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b135cb87a43f5c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/mappro/",
+      "name": "Map Pro",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/mappro/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Witivio",
+      "publisher_raw": "Witivio",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\2b7f1c28c881fe.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/marketoma/",
+      "name": "Marketo MA (deprecated) [DEPRECATED]",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1674/1.0.1674.3602/marketoma/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Non-Microsoft: Microsoft Inc",
+      "publisher_raw": "Microsoft Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6dce99d7f086d3.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoft365compliance/",
+      "name": "Microsoft 365 compliance",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1809/1.0.1809.4701/Microsoft365Compliance/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\eadce03ebd9e53.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/m365messagecenter/",
+      "name": "Microsoft 365 message center",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/m365messagecenter/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b62d74e76c3c96.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftcopilotstudio/",
+      "name": "Microsoft Copilot Studio",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4856/microsoftcopilotstudio/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a76d1f6d16a753.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/wdatp/",
+      "name": "Microsoft Defender ATP",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1806/1.0.1806.4679/wdatp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5695702bc920b5.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/azuread/",
+      "name": "Microsoft Entra ID",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1788/1.0.1788.4524/azuread/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ee3d48f876a92b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftforms/",
+      "name": "Microsoft Forms",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1774/1.0.1774.4397/microsoftforms/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\657cf9388d8ce9.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/teams/",
+      "name": "Microsoft Teams",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1812/1.0.1812.4744/teams/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c32a00254067fb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/todo/",
+      "name": "Microsoft To-Do (Business)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1797/1.0.1797.4628/todo/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f9716d375f8ef0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/todoconsumer/",
+      "name": "Microsoft To-Do (Consumer)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/todoconsumer/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\600821b3693a25.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/translatorv2/",
+      "name": "Microsoft Translator V2",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/translatorv2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\963ef5bb1522ec.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/encodianfiler/",
+      "name": "Mizorix Filer",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1810/1.0.1810.4737/encodianfiler/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Mizorix Ltd",
+      "publisher_raw": "Mizorix Ltd",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a4fa893f4a133d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/msnweather/",
+      "name": "MSN Weather",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1802/1.0.1802.4640/msnweather/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8cebe8371b66e4.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/mysql/",
+      "name": "MySQL",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/mysql/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c8d0b81b7a83ca.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/nationalparkserviceip/",
+      "name": "National Park Service (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/nationalparkserviceip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor, Hitachi Solutions",
+      "publisher_raw": "Troy Taylor, Hitachi Solutions",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\092518542784ff.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/flowpush/",
+      "name": "Notifications [DEPRECATED]",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/flowpush/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cc37a58c9e542d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/muhimbi/",
+      "name": "Nutrient Document Converter",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1789/1.0.1789.4533/Muhimbi/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Muhimbi trading as Nutrient",
+      "publisher_raw": "Muhimbi trading as Nutrient",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\13f801b64b146f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/office365groups/",
+      "name": "Office 365 Groups",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/office365groups/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\78c8ebf4bc03fb.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/office365groupsmail/",
+      "name": "Office 365 Groups Mail",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1795/1.0.1795.4831/office365groupsmail/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e0548fb9961043.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/office365/",
+      "name": "Office 365 Outlook",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1813/1.0.1813.4756/office365/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9e56eb8bcd603a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/office365users/",
+      "name": "Office 365 Users",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1807/1.0.1807.4725/office365users/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f6754878274023.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/onedrive/",
+      "name": "OneDrive",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/onedrive/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8395bde9747762.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/onedriveforbusiness/",
+      "name": "OneDrive for Business",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1814/1.0.1814.4751/onedriveforbusiness/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5fab4b7b0852e9.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/onenote/",
+      "name": "OneNote (Business)",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1810/1.0.1810.4710/onenote/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\86f68cfc425c8d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextcoreshare/",
+      "name": "OpenText Core Share",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/jayawan/releases/v1.0.1655/1.0.1655.3418/opentextcoreshare/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: One Fox",
+      "publisher_raw": "One Fox",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8196cb35ce266d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextdocumentum/",
+      "name": "OpenText Documentum",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1686/1.0.1686.3695/opentextdocumentum/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Non-Microsoft: One Fox",
+      "publisher_raw": "One Fox",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f2a7012085d60d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextedocsbyonefox/",
+      "name": "OpenText eDOCS",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1657/1.0.1657.3443/opentextedocsbyonefox/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: One Fox",
+      "publisher_raw": "One Fox",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\db689b1a421e02.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/opentextcsbyonefox/",
+      "name": "OpenText Extended ECM",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1657/1.0.1657.3443/opentextcsbyonefox/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Preview",
+      "publisher": "Non-Microsoft: One Fox",
+      "publisher_raw": "One Fox",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7abd0e02924324.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/oracle/",
+      "name": "Oracle Database",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/oracle/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9ea688ef1daa93.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/outlooktasks/",
+      "name": "Outlook Tasks [DEPRECATED]",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/outlooktasks/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1c453b917b8b82.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/outlook/",
+      "name": "Outlook.com",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/outlook/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f7c9097d547a5c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/pagerduty/",
+      "name": "PagerDuty",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/pagerduty/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a57c44211b9622.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/planner/",
+      "name": "Planner",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1808/1.0.1808.4692/planner/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a582e3ae3df0d5.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailsp/",
+      "name": "Plumsail Actions",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/plumsailsp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Plumsail",
+      "publisher_raw": "Plumsail",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\bd8bfa7de13556.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsail/",
+      "name": "Plumsail Documents",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1802/1.0.1802.4696/plumsail/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Plumsail",
+      "publisher_raw": "Plumsail",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d3ec4b7d331a41.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailforms/",
+      "name": "Plumsail Forms",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1645/1.0.1645.3345/plumsailforms/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Plumsail Inc",
+      "publisher_raw": "Plumsail Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\7ad92999e17b53.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/plumsailhelpdesk/",
+      "name": "Plumsail HelpDesk",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1704/1.0.1704.3827/plumsailhelpdesk/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Plumsail Inc",
+      "publisher_raw": "Plumsail Inc",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a5fae9e483ce21.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/projectroadmap/",
+      "name": "Portfolio and Roadmap",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/projectroadmap/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft",
+      "publisher_raw": "",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\cdd788a6527cc3.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/postgresql/",
+      "name": "PostgreSQL",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/postgresql/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d5142f6627f9b1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsforadmins/",
+      "name": "Power Apps for Admins",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/powerappsforadmins/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\198dbba7a313de.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsforappmakers/",
+      "name": "Power Apps for Makers",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/powerappsforappmakers/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\df71bd450c6302.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsnotification/",
+      "name": "Power Apps Notification",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/powerappsnotification/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\98a9bd521e097c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerappsnotificationv2/",
+      "name": "Power Apps Notification V2",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/powerappsnotificationv2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\85ed9268563a0f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/microsoftflowforadmins/",
+      "name": "Power Automate for Admins",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/microsoftflowforadmins/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\405770c99fe025.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/flowmanagement/",
+      "name": "Power Automate Management",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/flowmanagement/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\8585438ec61618.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerbi/",
+      "name": "Power BI",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1812/1.0.1812.4731/powerbi/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\989d627c7e5c5f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerplatformforadmins/",
+      "name": "Power Platform for Admins",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1802/1.0.1802.4640/powerplatformforadmins/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5e71b90c1a383a.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powerplatformadminv2/",
+      "name": "Power Platform for Admins V2",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/powerplatformadminv2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5ffe87ffddb317.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/dataflows/",
+      "name": "Power Query Dataflows",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1813/1.0.1813.4753/dataflows/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9945001c005442.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/powervirtualagents/",
+      "name": "Power Virtual Agents",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/powervirtualagents/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d1a5a6ef0cfc7e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/processmining/",
+      "name": "Process Mining",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1780/1.0.1780.4444/processmining/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\df9ea22f69058c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/processstreet/",
+      "name": "Process Street",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4654/processstreet/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Process Street",
+      "publisher_raw": "Process Street",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3d43943254b425.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/projectonline/",
+      "name": "Project Online",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1778/1.0.1778.4417/projectonline/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\774038bbf3e47f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/cognitiveservicesqnamaker/",
+      "name": "QnA Maker",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/cognitiveservicesqnamaker/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\6ab6778f0570fe.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/quickchartip/",
+      "name": "QuickChart (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1639/1.0.1639.3319/quickchartip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor",
+      "publisher_raw": "Troy Taylor",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\72abeddf913a33.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/recordedfutureidenti/",
+      "name": "Recorded Future Identity",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1737/1.0.1737.4115/recordedfutureidenti/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Recorded Future",
+      "publisher_raw": "Recorded Future",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e7dfd7c53b3e8b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/recordedfuturev2/",
+      "name": "Recorded Future V2",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1773/1.0.1773.4386/recordedfuturev2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Recorded Future",
+      "publisher_raw": "Recorded Future",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a7ac9668667152.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/regolink/",
+      "name": "RegoLink for Clarity PPM",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/u/shgogna/version-mismatches-special-train/1.0.1670.3520/regolink/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Rego Consulting Corporation",
+      "publisher_raw": "Rego Consulting Corporation",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e5a7f786509a87.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/rss/",
+      "name": "RSS",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/rss/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ecd6cba459b0a4.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/saperp/",
+      "name": "SAP ERP",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/saperp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5c323be28e3f7b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sapodata/",
+      "name": "SAP OData",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/sapodata/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e539effda0539b.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sendgrid/",
+      "name": "SendGrid",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1778/1.0.1778.4420/sendgrid/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ea273343a05710.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/servicebus-1/",
+      "name": "Service Bus",
+      "icon_url": "https://connectoricons-prod.azureedge.net/releases/v1.0.1823/1.0.1823.4879/servicebus-1/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\56e20fc6b354b6.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/service-now/",
+      "name": "ServiceNow",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4435/service-now/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\442d5cff7d3a47.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sftpwithssh/",
+      "name": "SFTP - SSH",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/sftpwithssh/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1f3b94853c0904.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sftp/",
+      "name": "SFTP [DEPRECATED]",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/sftp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\036343e4a45785.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sharepointonline/",
+      "name": "SharePoint",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1813/1.0.1813.4743/sharepointonline/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f1fa6a768541f.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/shifts/",
+      "name": "Shifts for Microsoft Teams",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1747/1.0.1748.4181/shifts/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e82ff16a045a60.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/shrtcodeip/",
+      "name": "SHRTCODE (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1636/1.0.1636.3297/shrtcodeip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Chandra Sekhar Malla",
+      "publisher_raw": "Chandra Sekhar Malla",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\c608aad938a5ca.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/signnow/",
+      "name": "SignNow",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1779/1.0.1779.4437/signnow/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: DaDaDocs",
+      "publisher_raw": "DaDaDocs",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\e94a16f02febaa.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/slack/",
+      "name": "Slack",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1778/1.0.1778.4420/slack/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\242fd9407f50b6.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/smartsheet/",
+      "name": "Smartsheet",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1778/1.0.1778.4420/smartsheet/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a9378f2685b772.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/smtp/",
+      "name": "SMTP",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1800/1.0.1800.4648/smtp/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\83eb1a40ae665c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/sql/",
+      "name": "SQL Server",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/sql/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\44d7d119fa678d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/approvals/",
+      "name": "Standard approvals",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/v1.0.1758/1.0.1758.4260/approvals/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\14d7b8d3e9ffa9.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/survey123/",
+      "name": "Survey123",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/survey123/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Non-Microsoft: ArcGIS Survey123",
+      "publisher_raw": "ArcGIS Survey123",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\045aba14d69c9c.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/surveymonkey/",
+      "name": "SurveyMonkey",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/master/1.0.1715.3909/surveymonkey/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f5ea773d056f79.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/teradata/",
+      "name": "Teradata",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/teradata/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b7ef842e267144.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/themealdbip/",
+      "name": "TheMealDB (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1645/1.0.1645.3345/themealdbip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: John Muchiri",
+      "publisher_raw": "John Muchiri",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\d982d332f5fe82.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/tikit/",
+      "name": "Tikit",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1686/1.0.1686.3695/tikit/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Cireson",
+      "publisher_raw": "Cireson",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\b352459b2ddc17.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/trello/",
+      "name": "Trello",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1778/1.0.1778.4420/trello/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5a06707379c34e.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/twilio/",
+      "name": "Twilio",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1778/1.0.1778.4420/twilio/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\4f0a4676a7edea.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/typeform/",
+      "name": "Typeform",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1777/1.0.1777.4410/typeform/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Preview",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\9f470090ebce5d.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/ventipixassetandinventory/",
+      "name": "Ventipix Asset and Inventory",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/ventipixassetandinventory/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Ventipix",
+      "publisher_raw": "Ventipix",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\ff30f1fc5baabc.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/videoindexer-v2/",
+      "name": "Video Indexer (V2)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1773/1.0.1773.4385/videoindexer-v2/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\f3b3254659b6fc.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/viesip/",
+      "name": "VIES (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1686/1.0.1686.3706/viesip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Tomasz Poszytek",
+      "publisher_raw": "Tomasz Poszytek",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\5b0a3e6fdaece1.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/yammer/",
+      "name": "Viva Engage",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1788/1.0.1788.4555/yammer/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\3ed5824ab8c4d0.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/woocommerce/",
+      "name": "WooCommerce",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/woocommerce/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Reenhanced, LLC",
+      "publisher_raw": "Reenhanced, LLC",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\58966b394675b2.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/wordonlinebusiness/",
+      "name": "Word Online (Business)",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/wordonlinebusiness/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\a4267455332eab.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/wordpress/",
+      "name": "WordPress",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/wordpress/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\77d398c7e64ce6.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/twitter/",
+      "name": "X",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1815/1.0.1815.4757/twitter/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\212263bb71ab68.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/xkcdip/",
+      "name": "xkcd (Independent Publisher)",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1732/1.0.1732.4070/xkcdip/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": true,
+        "DoD": true
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Non-Microsoft: Troy Taylor",
+      "publisher_raw": "Troy Taylor",
+      "available_in": "GCC, GCC High, DoD",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\889969720c0494.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/youtube/",
+      "name": "YouTube",
+      "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1780/1.0.1780.4444/youtube/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate"
+      ],
+      "tier": "Standard",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\1cefdb89d8f657.png"
+    },
+    {
+      "learn_url": "https://learn.microsoft.com/en-us/connectors/zendesk/",
+      "name": "Zendesk",
+      "icon_url": "https://static.powerapps.com/resource/ppcr/releases/v1.0.1816/1.0.1816.4770/zendesk/icon.png",
+      "availability": {
+        "GCC": true,
+        "GCC High": false,
+        "DoD": false
+      },
+      "availability_products": [
+        "Power Apps",
+        "Power Automate"
+      ],
+      "products": [
+        "Logic Apps",
+        "Power Automate",
+        "Power Apps"
+      ],
+      "tier": "Premium",
+      "status": "Production",
+      "publisher": "Microsoft",
+      "publisher_raw": "Microsoft",
+      "available_in": "GCC",
+      "products_display": "Logic Apps, Power Automate, Power Apps",
+      "logo_path": "C:\\Users\\jwillisrose\\code\\power-platform-connectors-gov-cloud\\assets\\logos\\fe7e8ec8483cc2.png"
+    }
+  ]
+}

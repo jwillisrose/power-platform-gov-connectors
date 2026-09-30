@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+      name="description"
+      content="Research Power Platform connector availability across Microsoft US Government clouds."
+    >
+    <title>Power Platform Connectors for US Government Clouds</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#connector-results">Skip to connector results</a>
+
+    <header class="hero">
+      <nav class="nav shell" aria-label="Primary navigation">
+        <a class="brand" href="./" aria-label="Power Platform Government Connectors home">
+          <span class="brand-mark" aria-hidden="true">PP</span>
+          <span>US Gov Connector Guide</span>
+        </a>
+        <div class="nav-links">
+          <a href="#connectors">Connectors</a>
+          <a href="#methodology">Methodology</a>
+        </div>
+      </nav>
+
+      <div class="hero-content shell">
+        <p class="eyebrow">Power Platform &middot; US Government</p>
+        <h1>Find the right connector for your government cloud.</h1>
+        <p class="hero-copy">
+          Compare Power Apps and Power Automate connector availability across
+          GCC, GCC High, and DoD environments.
+        </p>
+        <div class="hero-actions">
+          <a class="primary-button" href="#connectors">Explore connectors</a>
+          <div class="hero-downloads">
+            <a class="hero-download" href="assets/documents/Power_Platform_Gov_Connectors_Customer_Handout.pdf">
+              <span class="file-type">PDF</span>
+              Customer handout
+            </a>
+            <a class="hero-download" href="assets/documents/Power_Platform_Gov_Connectors.pptx" download>
+              <span class="file-type">PPTX</span>
+              Presentation deck
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats-section shell" aria-label="Dataset summary">
+        <div class="stat-card">
+          <span class="stat-value" id="total-count">&mdash;</span>
+          <span class="stat-label">Government connectors</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="gcc-count">&mdash;</span>
+          <span class="stat-label">Available in GCC</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="gcch-count">&mdash;</span>
+          <span class="stat-label">Available in GCC High</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value" id="dod-count">&mdash;</span>
+          <span class="stat-label">Available in DoD</span>
+        </div>
+      </section>
+
+      <section class="connector-section shell" id="connectors">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Connector directory</p>
+            <h2>Research availability</h2>
+          </div>
+          <p class="last-updated" id="last-updated">Loading source date&hellip;</p>
+        </div>
+
+        <form class="filters" id="filters">
+          <label class="search-field">
+            <span class="sr-only">Search connectors</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24">
+              <path d="m21 21-4.35-4.35m2.35-5.15a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"></path>
+            </svg>
+            <input
+              id="search"
+              name="search"
+              type="search"
+              placeholder="Search by connector or publisher"
+              autocomplete="off"
+            >
+          </label>
+
+          <label>
+            <span>Cloud</span>
+            <select id="cloud" name="cloud">
+              <option value="">All clouds</option>
+              <option value="GCC">GCC</option>
+              <option value="GCC High">GCC High</option>
+              <option value="DoD">DoD</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Product</span>
+            <select id="product" name="product">
+              <option value="">All products</option>
+              <option value="Power Apps">Power Apps</option>
+              <option value="Power Automate">Power Automate</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Tier</span>
+            <select id="tier" name="tier">
+              <option value="">All tiers</option>
+              <option value="Standard">Standard</option>
+              <option value="Premium">Premium</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Status</span>
+            <select id="status" name="status">
+              <option value="">All statuses</option>
+              <option value="Production">Production</option>
+              <option value="Preview">Preview</option>
+            </select>
+          </label>
+
+          <button class="text-button" id="clear-filters" type="reset">Clear filters</button>
+        </form>
+
+        <div class="results-heading">
+          <p id="result-count" role="status" aria-live="polite">Loading connectors&hellip;</p>
+          <label class="sort-control">
+            <span>Sort</span>
+            <select id="sort" name="sort">
+              <option value="name-asc">Name A&ndash;Z</option>
+              <option value="name-desc">Name Z&ndash;A</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="connector-grid" id="connector-results" aria-busy="true"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <h3>No connectors match these filters</h3>
+          <p>Try broadening your search or clearing the selected filters.</p>
+          <button class="secondary-button" id="empty-clear" type="button">Clear filters</button>
+        </div>
+      </section>
+
+      <section class="methodology-section shell" id="methodology">
+        <div>
+          <p class="eyebrow">Methodology</p>
+          <h2>Built from Microsoft Learn</h2>
+        </div>
+        <div class="methodology-copy">
+          <p>
+            Availability is compiled from the official Power Apps and Power Automate
+            connector reference pages. Connector names link to their Microsoft Learn
+            documentation.
+          </p>
+          <p>
+            Service availability can change. Confirm current support and licensing in
+            Microsoft documentation before making an architecture or purchasing decision.
+          </p>
+          <a href="https://learn.microsoft.com/connectors/connector-reference/" rel="noreferrer">
+            View the connector reference <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-content">
+        <p>Power Platform US Government Connector Guide</p>
+        <p>Community research based on public Microsoft documentation.</p>
+      </div>
+    </footer>
+  </body>
+</html>

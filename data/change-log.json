@@ -1,0 +1,35 @@
+[
+  {
+    "date": "July 27, 2026",
+    "summary": "1 connector added. Added connector: Azure Monitor Logs Ingestion (Premium, Preview; GCC, GCC High, DoD).",
+    "details": [
+      "Added connector: Azure Monitor Logs Ingestion (Premium, Preview; GCC, GCC High, DoD)."
+    ]
+  },
+  {
+    "date": "July 31, 2026",
+    "summary": "1 metadata/product change. Regenerated files manually; Learn source data unchanged.",
+    "details": [
+      "Regenerated files manually; Learn source data unchanged."
+    ]
+  },
+  {
+    "date": "August 26, 2026",
+    "summary": "2 connectors added; 2 connectors removed; 1 cloud availability change; 1 metadata/product change. Added connector: Data Activator (Premium, Production; GCC High). Added connector: Service Bus (Premium, Production; GCC, DoD). Removed connector: Salesforce (previously Premium, Production; GCC, DoD). Removed connector: Service Bus (previously Premium, Production; GCC, DoD). Changed release status for Azure - Foundry IQ: Preview \u2192 Production. Removed GCC High availability for Azure AI Document Intelligence (form recognizer).",
+    "details": [
+      "Added connector: Data Activator (Premium, Production; GCC High).",
+      "Added connector: Service Bus (Premium, Production; GCC, DoD).",
+      "Removed connector: Salesforce (previously Premium, Production; GCC, DoD).",
+      "Removed connector: Service Bus (previously Premium, Production; GCC, DoD).",
+      "Changed release status for Azure - Foundry IQ: Preview \u2192 Production.",
+      "Removed GCC High availability for Azure AI Document Intelligence (form recognizer)."
+    ]
+  },
+  {
+    "date": "September 23, 2026",
+    "summary": "1 metadata/product change. Renamed connector: Notifications \u2192 Notifications [DEPRECATED].",
+    "details": [
+      "Renamed connector: Notifications \u2192 Notifications [DEPRECATED]."
+    ]
+  }
+]
